@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Secure Chrome Plugin for Malware and Phishing Detection",
+    "name": "SafeWeb",
     "version": "1.0",
     "description": "Detects and blocks phishing attempts and malware downloads.",
     "permissions": ["webRequest", "webNavigation", "downloads", "storage"],
@@ -16,9 +16,9 @@
       }
     },
     "icons": {
-      "16": "images/icon16.png",
-      "48": "images/icon48.png",
-      "128": "images/icon128.png"
+      "16": "images/SafeWeb_icon16.png",
+      "48": "images/SafeWeb_icon48.png",
+      "128": "images/SafeWeb_icon128.png"
     }
   }
   
