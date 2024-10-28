@@ -10,9 +10,9 @@
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "images/icon16.jpg",
-        "48": "images/icon48.jpg",
-        "128": "images/icon128.jpg"
+        "16": "images/SafeWeb_icon16.jpg",
+        "48": "images/SafeWeb_icon48.jpg",
+        "128": "images/SafeWeb_icon128.jpg"
       }
     },
     "icons": {
